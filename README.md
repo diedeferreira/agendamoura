@@ -3,7 +3,11 @@ Agenda Telefônica JN Moura Informática
 
 Projeto referente a criação de uma aplicação de agenda 
 telefônica onde é permitido (incluir, alterar, listar e
-excluir dados).
+excluir dados). Obs. Antes de dar início ao procedimento
+preciso fazer uma observação, durante a execução do aplicativo
+no procedimento de alteração aparece um erro na tela;
+Ele não traz o endereço, erro na linha 60, devido o prazo
+de entrega não consegui identificar o erro.
 
 Passo a Passo:
 1. Abrir a página projeto.php
